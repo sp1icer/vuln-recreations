@@ -3,7 +3,7 @@ import struct
 
 '''
     +-------------------------------------------------------+
-    | *** GMON RCE in Vulnserver.exe ***                    |
+    | *** GMON exploit for Vulnserver.exe ***               |
     | EBP offset: 1903 bytes                                |
     | SEH offset: 3423 bytes                                |
     | JMP EBP Address: 0x625011f9                           |
