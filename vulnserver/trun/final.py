@@ -3,7 +3,7 @@ import struct
 
 '''
     +-------------------------------------------------------+
-    | *** TRUN RCE in Vulnserver.exe ***                    |
+    | *** TRUN exploit for Vulnserver.exe ***               |
     | EIP offset: 2003                                      |
     | JMP ESP Address: 0x625011af                           |
     +-------------------------------------------------------+
