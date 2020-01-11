@@ -22,7 +22,7 @@ def main():
     # Need to give FSTENV something to chew through - jumps
     # up the stack by 28 bytes.
     # Note: using an odd number of bytes to jump back here
-    # will cause misalignment and just crash the server.
+    # will cause misalignment and just crash the thread.
     stack_align = "\x83\xEC\x1C"
 
     '''
